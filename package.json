@@ -11,8 +11,12 @@
   },
   "license": "ISC",
   "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.10",
     "typescript": "^5.9.3",
     "vite": "^8.3.8",
     "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3"
   }
 }
